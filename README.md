@@ -1,0 +1,2 @@
+# tiroparabolicoo
+simulador
